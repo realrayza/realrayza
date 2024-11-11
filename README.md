@@ -3,6 +3,7 @@
 - 🌱 I’m a certified Associate Data Analyst
 - 💞️ I’m looking to collaborate on any Data Analysis project
 - 📫 How to reach me 📧 obisoft@yahoo.com
+- 🧰 My tools are: Microsoft Excel, Power Bi, Postgresql and Microsoft SQL server
 
 
 <!---
