@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @realrayza
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m a certified Associate Data Analyst
-- 💞️ I’m looking to collaborate on any Data Analysis project
-- 📫 How to reach me 📧 obisoft@yahoo.com
-- 🧰 My tools are: Microsoft Excel, Power Bi, Python, Postgresql and Microsoft SQL server
+👋 Hi, I'm @realrayza
 
+💻 I'm a Full-Stack Developer passionate about building modern, responsive, and scalable web applications.
 
-<!---
-realrayza/realrayza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm currently expanding my skills in TypeScript, GraphQL, React Native, and backend development.
+
+🚀 I'm interested in building real-world products, contributing to open-source projects, and collaborating with other developers.
+
+💞️ I'm open to collaborating on exciting Full-Stack and software development projects.
+
+📫 Reach me at: 📧 obiraza@gmail.com
+
+🧰 My Tech Stack:
+
+- Frontend: HTML, CSS, JavaScript, React.js, Material UI
+- Backend: Node.js, Express.js
+- Mobile: React Native, Expo
+- Database: MongoDB, PostgreSQL
+- Languages: JavaScript, TypeScript, Python
+- API Development: REST APIs, GraphQL, Apollo Client
+- Tools & Technologies: Git, GitHub, Docker, React Query, Socket.IO
